@@ -1,0 +1,54 @@
+.menu{
+ width: 200px;
+ background-color: #000;
+ height: 100vh;
+ padding-top: 20px;
+ box-shadow: 2px 0 8px rgb(0, 0, 0, 0.5);
+ position:fixed ;
+ left:0 ;
+ top:0;
+}
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.menu li {
+    margin-bottom: 15px;
+}
+.menu a {
+    display: block;
+    color: #2200ff;
+    text-decoration: none;
+    font-weight: bold ;
+}
+.menu:hover a:hover {
+    background-color:#ffffff;
+}
+.contenido{
+    margin-left: 220px;
+    padding: 40px;
+    
+}
+h1,h2 {
+    color: #2f00ff;
+}
+p{
+    line-height: 1.6;
+}
+.libro {
+    
+    width: 250px;
+    border-left: 5px solid #3300ff;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin: 30px 0 ;
+}
+.Autor   li {
+    list-style: none;
+    padding: 5px 0 ;
+}
+.Autor strong {
+    color: #0015ff;
+}
