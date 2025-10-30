@@ -27,8 +27,8 @@
 }
 
     .fuentes {
-      width: 500px;             /* ancho del bloque */
-      margin-left: 200px;       /* mueve el bloque hacia la derecha */
+      width: 500px;             
+      margin-left: 200px;       
       background: #fff;
       border-left: 5px solid #3300ff;
       border-radius: 10px;
